@@ -1,0 +1,14 @@
+{
+    "P17.jsonl": "[X] is located in [Y] .",
+    "P27.jsonl": "[X] is a citizen of [Y].",
+    "P36.jsonl": "The capital city of [X] is [Y].",
+    "P127.jsonl": "[X] is owned by [Y] .",
+    "P131.jsonl": "[X] can be found in [Y] .",
+    "P138.jsonl": "[X] is named after [Y].",
+    "P176.jsonl": "[X] is a product of [Y].",
+    "P178.jsonl": "[X] is a product of [Y]",
+    "P276.jsonl": "[X] is located in [Y] .",
+    "P495.jsonl": "[X] was created in [Y].",
+    "P1376.jsonl": "[X] is the capital city of [Y].",
+    "P1412.jsonl": "[X] communicated in [Y] ."
+}

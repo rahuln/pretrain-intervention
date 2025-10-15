@@ -1,0 +1,605 @@
+.NET Framework
+A320neo family
+A350
+ASCI Red
+ASIMO
+Access
+Active Directory
+Active Server Pages
+ActiveSync
+Adobe
+Adobe AIR
+Adobe Acrobat
+Adobe After Effects
+Adobe Audition
+Adobe Bridge
+Adobe Captivate
+Adobe Connect
+Adobe Creative Cloud
+Adobe Creative Suite
+Adobe Digital Editions
+Adobe Dreamweaver
+Adobe Encore
+Adobe Fireworks
+Adobe Flash
+Adobe Flash Builder
+Adobe Flash Player
+Adobe FrameMaker
+Adobe FreeHand
+Adobe GoLive
+Adobe Illustrator
+Adobe Illustrator Artwork
+Adobe InDesign
+Adobe Media Player
+Adobe Muse
+Adobe PageMaker
+Adobe Photoshop
+Adobe Photoshop Elements
+Adobe Photoshop Lightroom
+Adobe Premiere Elements
+Adobe Premiere Pro
+Adobe RGB (1998)
+Adobe Soundbooth
+Advanced Function Presentation
+Advanced Systems Format
+Airbus
+Airbus A300-600ST Beluga
+Alex Kidd
+Alien Storm
+Altered Beast
+Amazon
+Amazon Echo
+Amazon Fire TV
+Amazon Silk
+Amazon Simple Queue Service
+Amazon Web Services
+Amiibo
+Andrew File System
+Android Auto
+Android Jelly Bean
+Android Runtime
+Android TV
+Apache Traffic Server
+App Inventor for Android
+App Store
+Apple A4
+Apple A5
+Apple A6
+Apple A7
+Apple A8
+Apple A8X
+Apple Bandai Pippin
+Apple Books
+Apple DOS
+Apple Filing Protocol
+Apple Icon Image format
+Apple Inc.
+Apple Lossless
+Apple Maps
+Apple Open Directory
+Apple Pay
+Apple Pippin
+Apple Remote Desktop
+Apple Thunderbolt Display
+Apple Watch
+AppleScript
+AppleShare
+AppleTalk
+AppleWorks
+Applesoft BASIC
+Asteroids Deluxe
+Astron Belt
+Atari
+Atari 8-bit family
+Atari DOS
+Attached Support Processor
+Audio Interchange File Format
+Audio Video Interleave
+B-17 Flying Fortress
+B-29 Superfortress
+B-47 Stratojet
+BBC
+BBC iPlayer
+BBeB
+Baku Baku Animal
+Binary Synchronous Communications
+Bing Maps Platform
+Blogger
+Boeing
+Boeing 747 Large Cargo Freighter
+Boeing B-52 Stratofortress
+Boeing F-15SE Silent Eagle
+Boeing X-37
+CICS
+CarPlay
+Channel Definition Format
+Chrome OS
+Chromecast
+Chrono Trigger
+Clockwork Knight
+Cloud Spanner
+ColorSync
+Common UNIX Printing System
+Congo Bongo
+Core 2
+Cyberdog
+DVD Studio Pro
+Dashboard
+Deckadance
+Digital Negative
+DirectX
+Disk Utility
+Donkey Kong
+Douglas
+Douglas X-3 Stiletto
+Dynix
+EA-18G Growler
+Eclipse
+Eternal Champions
+Event Viewer
+F1M
+FS-1015
+FairPlay
+Fairchild
+Fairchild Republic A-10 Thunderbolt II
+Fantasy Zone
+Fatal Labyrinth
+File Explorer
+Final Cut Pro
+Final Cut Pro X
+Final Cut Studio
+Final Fantasy
+Final Fantasy III
+Final Fantasy Legend II
+Final Fantasy Legend III
+Final Fantasy V
+Final Fantasy X
+Flicky
+Fonz
+Fortran
+Front Mission
+Front Mission 3
+G4M
+GW-BASIC
+Gain Ground
+GarageBand
+Gear VR
+Gears
+General Transit Feed Specification
+Gibson
+Glyph Bitmap Distribution Format
+Gmail
+Google
+Google AdSense
+Google Ads
+Google Analytics
+Google Buzz
+Google Calendar
+Google Checkout
+Google Chrome
+Google Cloud Platform
+Google Contacts
+Google Desktop
+Google Drive
+Google Earth
+Google File System
+Google Finance
+Google Glass
+Google Groups
+Google Guice
+Google Hangouts
+Google Health
+Google Hummingbird
+Google Keep
+Google Latitude
+Google Map Maker
+Google Maps
+Google Now
+Google Pack
+Google Patents
+Google Pay Send
+Google Play
+Google Reader
+Google Shopping
+Google Street View
+Google Talk
+Google Toolbar
+Google Translate
+Google Web Toolkit
+Google Workspace
+Google account
+Gran Trak 10
+HFS Plus
+Heavyweight Champ
+Hierarchical File System
+High Level Shader Language
+Honda
+HyperCard
+HyperTalk
+IA-32
+IA-64
+IBM
+IBM 4300
+IBM 4690 OS
+IBM AIX
+IBM Airline Control Program
+IBM Business System 12
+IBM Connections
+IBM Db2
+IBM Developer
+IBM General Parallel File System
+IBM Generalized Markup Language
+IBM Information Management System
+IBM Lotus SmartSuite
+IBM Lotus Symphony
+IBM Lotus Word Pro
+IBM Network Control Program
+IBM OfficeVision
+IBM PC DOS
+IBM Parallel Sysplex
+IBM RPG II
+IBM Rational Application Developer
+IBM Rational ClearCase
+IBM Rational Rose XDE
+IBM Rational Unified Process
+IBM System Management Facilities
+IBM System Object Model
+IBM System R
+IBM System i
+IBM Systems Application Architecture
+IBM Tivoli Storage Manager
+IBM Tivoli Workload Scheduler
+IBM TopView
+IBM Type-III Library
+IBM ViaVoice
+IBM WebSphere Application Server LOCAL
+IBM WebSphere MQ
+IBM Workplace OS
+IBM i
+ISPF
+Intel
+Intel 80186
+Intel 80286
+Intel 80386
+Intel 80486
+Intel 80486DX2
+Intel 80486SX
+Intel 8086
+Intel Core
+Intel MCS-51
+Intel Parallel Studio
+Intel Pentium Dual-Core
+Intel Quark
+Intel Threading Building Blocks
+Intel i860
+Intel i960
+Intel iAPX 432
+IntelliPoint
+Interface Builder
+Internet Explorer
+Internet Explorer 10
+Internet Explorer 11
+Internet Explorer 5
+Internet Explorer Mobile
+Internet Information Services
+Itanium
+Journaled File System
+KC-767
+Logic Pro
+Logic Studio
+Lotus 1-2-3
+MS-DOS
+MSX BASIC
+MSX-DOS
+MVS
+MXML
+Mac OS 8
+Mac OS 9
+Mac OS X 10.0
+Mac OS X 10.1
+Mac OS X 10.2
+Mac OS X Leopard
+Mac OS X Lion
+Mac OS X Panther
+Mac OS X Snow Leopard
+Mac OS X Tiger
+MacApp
+MacPaint
+Macintosh File System
+Macintosh operating systems
+MacsBug
+Mario Bros.
+Mario franchise
+MessagePad
+Meta Content Framework
+Metroid
+Microsoft
+Microsoft Access
+Microsoft BASIC
+Microsoft Bing Maps
+Microsoft Bob
+Microsoft Compiled HTML Help
+Microsoft Digital Video Recording
+Microsoft Dynamics
+Microsoft Dynamics NAV
+Microsoft Entourage
+Microsoft Excel
+Microsoft Exchange Server
+Microsoft Expression Blend
+Microsoft Forefront Threat Management Gateway
+Microsoft FrontPage
+Microsoft HealthVault
+Microsoft InfoPath
+Microsoft Internet Explorer 3
+Microsoft Internet Explorer 4
+Microsoft Internet Explorer 6
+Microsoft Macro Assembler
+Microsoft Mail
+Microsoft Money
+Microsoft Office
+Microsoft Office 2000
+Microsoft Office 2003
+Microsoft Office 2007
+Microsoft Office 97
+Microsoft Office Live
+Microsoft Office XP
+Microsoft Office mobile apps
+Microsoft OneDrive
+Microsoft OneNote
+Microsoft Outlook
+Microsoft Picture It!
+Microsoft Plus!
+Microsoft PowerPoint
+Microsoft Project
+Microsoft Publisher
+Microsoft Reader
+Microsoft Robotics Developer Studio
+Microsoft SQL Server
+Microsoft Schedule Plus
+Microsoft Security Essentials
+Microsoft SharePoint
+Microsoft Silverlight
+Microsoft Store
+Microsoft Surface
+Microsoft Visio
+Microsoft Visual Studio
+Microsoft Windows
+Microsoft Windows SDK
+Microsoft Word
+Microsoft Works
+Microsoft Write
+Microsoft XNA
+Minecraft
+MiniDisc
+Mitsubishi A5M
+Mitsubishi Group
+MobileMe
+Mother 3
+Motion
+NATO
+NTFS
+NTLDR
+NetBurst
+NetFront
+New Nintendo 3DS
+Newsstand
+Newton OS
+Nintendo
+Nintendo 2DS
+Nintendo 3DS
+Nintendo DSi
+Nintendo Video
+Nokia
+Nokia Lumia 2520
+OS X Mavericks
+OS X Mountain Lion
+OS X Yosemite
+Object REXX
+Office Open XML
+Open Packaging Conventions
+Open XML Paper Specification
+OpenAFS
+OpenDoc
+OpenSearch
+Outlook Express
+Pentium
+Pentium 4
+Pentium II
+Pentium III
+Pentium M
+Pentium Pro
+Photo Booth
+Picasa
+Pilotwings 64
+Portable Document Format
+PostScript
+PostScript Printer Description
+PowerShell
+Process Explorer
+Programmed Airline Reservations System
+Project Ara
+Quick Look
+QuickDraw
+QuickTime
+QuickTime VR
+REXX
+Rational Team Concert
+Report Program Generator
+Resource Access Control Facility
+Resource Interchange File Format
+Rich Text Format
+Robocopy
+SPDY
+SPSS Modeler
+Safari
+Samsung
+Samsung Kies
+Sandy Bridge
+Sega
+Sega Smash Pack
+Shadow Dancer
+Shining Blade
+Shining Hearts
+Silvermont
+Siri
+Skype
+Small Web Format
+Sonic Drift
+Sonic Drift 2
+SonicStage
+Sony
+Soundtrack Pro
+Square
+Squeak
+Statistical Package for the Social Sciences
+Super Audio CD
+Super Monaco GP
+Symbian
+Synchronized Accessible Media Interchange
+System 7
+TSS/360
+Tamarin
+Test Drive Le Mans
+Tetris DS
+TextEdit
+The Legend of Zelda
+The Ocean Hunter
+The Revenge of Shinobi
+ThinkPad
+Thunder Blade
+Time Machine
+Time Sharing Option
+Transaction Processing Facility
+TypeScript
+UNIX System Services
+Uniform Type Identifier
+Universal Media Disc
+V8
+VP9
+Vector Markup Language
+Virtual Console
+Virtual Hard Disk
+Virtual Telecommunications Access Method
+Visual Basic .NET
+Visual Basic Script
+VisualAge
+VoiceOver
+Wear OS
+WebKit
+WebM
+WebObjects
+WebP Lossless
+Wii MotionPlus
+Wii U
+Wii U system software
+WinDbg
+Windows 1.0
+Windows 10
+Windows 2.0
+Windows 2.1x
+Windows 2000
+Windows 7
+Windows 8
+Windows 8.1
+Windows 95
+Windows 98
+Windows Aero
+Windows Communication Foundation
+Windows Driver Frameworks
+Windows Easy Transfer
+Windows Embedded
+Windows Embedded Automotive
+Windows Embedded CE 6.0
+Windows Embedded Compact
+Windows Genuine Advantage
+Windows Installer
+Windows Internet Explorer 7
+Windows Internet Explorer 8
+Windows Internet Explorer 9
+Windows Live Mesh
+Windows Live Messenger
+Windows Live OneCare
+Windows Live Writer
+Windows Malicious Software Removal Tool
+Windows Me
+Windows Media Audio
+Windows Media Encoder
+Windows Media Player
+Windows Media Video
+Windows Messaging
+Windows Mixed Reality
+Windows Mobile
+Windows Mobile 6.5
+Windows Movie Maker
+Windows NT
+Windows NT 3.1
+Windows NT 3.5
+Windows NT 3.51
+Windows NT 4.0
+Windows Phone
+Windows Phone 8
+Windows Phone 8.1
+Windows Phone Store
+Windows RT
+Windows Server 2003
+Windows Server 2008
+Windows Server 2008 R2
+Windows Server 2012
+Windows Setup Information File
+Windows Update
+Windows Virtual PC
+Windows Vista
+Windows XP
+Windows XP Media Center Edition
+WriteNow
+X11.app
+XDCAM
+XEDIT
+XNU
+XScale
+Xbox 360
+Xbox One
+Xbox network
+Xcode
+Xenix
+Xgrid
+Xsan
+YUI Library
+Yahoo
+Yahoo! Messenger
+Yakuza
+Yakuza 2
+Yorkfield
+Yoshi's Universal Gravitation
+Zaxxon
+Zune
+application bundle
+dynamic-link library
+iBeacon
+iBooks Author
+iChat
+iCloud
+iDisk
+iGoogle
+iLife
+iMovie
+iOS
+iOS 5
+iOS 6
+iOS 7
+iOS 8
+iPad (3rd generation)
+iPad mini 3
+iPod
+iPod Classic
+iPod Mini
+iPod Nano
+iPod Shuffle
+iPod Touch
+iTunes
+iTunes Radio
+iWork
+macOS
+macOS Server
+sRGB
+zero configuration networking
